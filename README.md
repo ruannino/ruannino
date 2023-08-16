@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋 , Eu sou Ruannino</h1>
 
-<img align="left" height="290" src="[https://media-exp1.licdn.com/dms/image/C4D03AQGZV2gymzKDrA/profile-displayphoto-shrink_200_200/0/1658893027936?e=1664409600&v=beta&t=9ieo76uDUENgqaiP7zOegMPTQ5BkLHR3TjW5hCCitsY](https://media.licdn.com/dms/image/D4D35AQHa1X9xhac8DQ/profile-framedphoto-shrink_200_200/0/1692211365650?e=1692817200&v=beta&t=d3johLsSvG1bWT6JNPm1UwS_OyDyj35bUveAUdKXbXA)"/>
+<img align="left" height="290" src="(https://media.licdn.com/dms/image/D4D35AQHa1X9xhac8DQ/profile-framedphoto-shrink_200_200/0/1692211365650?e=1692817200&v=beta&t=d3johLsSvG1bWT6JNPm1UwS_OyDyj35bUveAUdKXbXA)"/>
 
 <h4 align="centro">Um Estudante de Lógica de Programação</h4>
 
 - 🌱 Estou estudando **Java, Python e MySql**
-- [📫 Me mande um e-mail](**ruanfariasdc@hotmail.com**)
+- [📫 Me mande um e-mail](**ruanninodev@gmail.com**)
 - [📄 Veja meu Currículo](https://drive.google.com/file/d/1shQ_1T5Wa-qHiuD08H15zj8jZFXqm8Gg/view?usp=compartilhamento)
 
 <h4 align="left">Linguagens e Ferramentas:</h4>
