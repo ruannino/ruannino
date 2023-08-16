@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋 , Eu sou Ruannino</h1>
 
-<img align="left" height="290" src="https://media-exp1.licdn.com/dms/image/C4D03AQGZV2gymzKDrA/profile-displayphoto-shrink_200_200/0/1658893027936?e=1664409600&v=beta&t=9ieo76uDUENgqaiP7zOegMPTQ5BkLHR3TjW5hCCitsY"/>
+<img align="left" height="290" src="[https://media-exp1.licdn.com/dms/image/C4D03AQGZV2gymzKDrA/profile-displayphoto-shrink_200_200/0/1658893027936?e=1664409600&v=beta&t=9ieo76uDUENgqaiP7zOegMPTQ5BkLHR3TjW5hCCitsY](https://media.licdn.com/dms/image/D4D35AQHa1X9xhac8DQ/profile-framedphoto-shrink_200_200/0/1692211365650?e=1692817200&v=beta&t=d3johLsSvG1bWT6JNPm1UwS_OyDyj35bUveAUdKXbXA)"/>
 
 <h4 align="centro">Um Estudante de Lógica de Programação</h4>
 
@@ -18,4 +18,4 @@
 </p>
 
 ____________________________________________________________________________________________________________________________________
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ruannino&show_icons=true&theme=tokyonight&title_color=d0cdcd&text_color=cac4c4&bg_color=384b85&locale=en" height="255" width="260" alt="ruannino"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruannino&show_icons=true&theme=tokyonight&title_color=ada9a9&text_color=ada4a4&bg_color=394d74&locale=en&layout=compact" height="255" width="275" alt="ruannino"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ruannino&theme=highcontrast" height="255" width="260" alt="ruannino"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ruannino&show_icons=true&theme=tokyonight&title_color=d0cdcd&text_color=cac4c4&bg_color=384b85&locale=en" height="255" width="260" alt="ruannino"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruannino&show_icons=true&theme=tokyonight&title_color=ada9a9&text_color=ada4a4&bg_color=394d74&locale=en&layout=compact" height="255" width="280" alt="ruannino"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ruannino&theme=highcontrast" height="255" width="260" alt="ruannino"/></p>
