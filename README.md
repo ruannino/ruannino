@@ -5,8 +5,10 @@
 <h4 align="centro">Um Estudante de Lógica de Programação</h4>
 
 - 🌱 Estou estudando **Java, Python e MySql**
-- [📫 Me mande um e-mail](**ruanninodev@gmail.com**)
-- [📄 Veja meu Currículo](https://drive.google.com/file/d/1shQ_1T5Wa-qHiuD08H15zj8jZFXqm8Gg/view?usp=compartilhamento)
+
+- [📫 Me mande um e-mail](mailto:ruanninodev@gmail.com)
+
+- [📄 Veja meu LinkedIn](https://www.linkedin.com/in/ruannino-farias-a60a1723a)
 
 <h4 align="left">Linguagens e Ferramentas:</h4>
 <p align="left"> <a href="https://www.photoshop.com/en" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href=" https://www.adobe.com/in/products/illustrator.html" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="ilustrador" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a><hrefa ="https://www.java.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
